@@ -42,7 +42,5 @@ toString(); // returns the string to print the linkedlist.
 
 ```js 
 
- find(value); // returns the index of the given value.
- 
- ```
- 
+find(value); // returns the index of the given value.
+```
